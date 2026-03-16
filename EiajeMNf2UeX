@@ -1,4 +1,4 @@
-name: variiante
+name: Verify Human Identity
 
 on:
   workflow_dispatch:
