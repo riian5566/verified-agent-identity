@@ -1,16 +1,16 @@
-name: EiajeMNf2UeX
+name: variiante
 
 on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'finder'
+        description: 'variiante'
         required: true
-        default: 'finder'
+        default: 'variiante'
       agent_description:
-        description: 'finder'
+        description: 'variiante'
         required: true
-        default: 'finder AI Agent'
+        default: 'variiante AI Agent'
 
 jobs:
   verify:
